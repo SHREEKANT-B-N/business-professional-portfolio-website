@@ -1,6 +1,3 @@
-# business-professional-portfolio-website
-Entrepreneur · Investor · Philanthropist | Co-founder of Zerodha, True Beacon &amp; Gruhas | $3.3B | Bengaluru, India
-
 # Nikhil Kamath
 ### Entrepreneur · Investor · Philanthropist
 
@@ -58,7 +55,7 @@ Venture firm co-founded with Abhijeet Pai investing in 50+ startups across clima
 
 | Year | Milestone |
 |------|-----------|
-| **2006 | Became a sub-broker and co-founded **Kamath & Associates** with brother Nithin to manage HNI portfolios |
+| **2006** | Became a sub-broker and co-founded **Kamath & Associates** with brother Nithin to manage HNI portfolios |
 | **2010** | Co-founded **Zerodha**, introducing a revolutionary discount brokerage model that democratised stock trading in India |
 | **2020** | Co-founded **True Beacon**, an asset management firm for ultra-high-net-worth individuals |
 | **2021** | Co-founded **Gruhas** with Abhijeet Pai — a VC firm backing 50+ startups across impact sectors |
@@ -77,9 +74,9 @@ Launched in **March 2024**, *WTF is* has rapidly become one of India's most-watc
 
 ---
 
-🤝 Philanthropy — The Giving Pledge
+## 🤝 Philanthropy — The Giving Pledge
 
-In June 2023, Nikhil Kamath signed The Giving Pledge— a commitment by some of the world's wealthiest individuals to dedicate the majority of their wealth to charitable causes. Kamath pledged to donate **50% of his lifetime wealth**, joining an elite global cohort that includes Warren Buffett and Bill Gates.
+In **June 2023**, Nikhil Kamath signed **The Giving Pledge** — a commitment by some of the world's wealthiest individuals to dedicate the majority of their wealth to charitable causes. Kamath pledged to donate **50% of his lifetime wealth**, joining an elite global cohort that includes Warren Buffett and Bill Gates.
 
 His philanthropic vision focuses on areas where capital can create systemic, long-term change:
 
@@ -89,7 +86,7 @@ His philanthropic vision focuses on areas where capital can create systemic, lon
 
 ---
 
-💼 Personal Investment Portfolio
+## 💼 Personal Investment Portfolio
 
 | Company | Sector |
 |---------|--------|
@@ -106,12 +103,13 @@ His philanthropic vision focuses on areas where capital can create systemic, lon
 | PMI Electro | EV · Mobility |
 | IPEC | CleanTech |
 
+---
 
- 🔗 Links
+## 🔗 Links
 
- 🌐 [Zerodha](https://zerodha.com)
- 📍 Bengaluru, India
+- 🌐 [Zerodha](https://zerodha.com)
+- 📍 Bengaluru, India
 
-
+---
 
 *Information sourced from Wikipedia and public records.*
